@@ -1,7 +1,7 @@
 自动收集多个公开来源的 Cloudflare 优选 IPv4，去重、标注国家码，每 6 小时自动更新。
 
 **订阅地址：**
-- `https://raw.githubusercontent.com/你的用户名/你的仓库名/main/ip.txt`
+- https://raw.githubusercontent.com/a2622113/cloudflare_IPv4/main/ip.txt
 
 **抓取的源：**
 - https://raw.githubusercontent.com/ymyuuu/IPDB/main/BestCF/bestcfv4.txt
